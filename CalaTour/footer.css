@@ -1,0 +1,39 @@
+footer div li {
+    display: inline-block;
+    margin: 1px;
+    width: 33%;
+    text-align: justify;
+}
+
+footer div div p {
+    background: aquamarine;
+    color: blue;
+    width: 80%;
+    padding: 5%;
+    padding-top: 0.5cm;
+    padding-bottom: 0.5cm;
+    margin: 0;
+}
+
+footer ul img {
+    display: inline;
+    width: 90%;
+    height: 450px;
+    vertical-align: top;
+}
+
+footer div div div {
+    width: 80%;
+    background: tan;
+    padding: 5%;
+    padding-top: 1cm;
+    padding-bottom: 1cm;
+}
+
+footer ul p {
+    background: aquamarine;
+    width: 97%;
+    padding-top: 0.2cm;
+    padding-bottom: 0.2cm;
+    margin-top:-16px;
+}
